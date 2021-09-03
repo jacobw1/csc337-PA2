@@ -1,5 +1,8 @@
-/* Stormcloak */
+/*Jacob Williams*/
+/*This style sheet are linked to index.html and imperial.html. This file holds the.
+ These are seperated by pages*/
 
+/* Stormcloak */
 #title_S{
   text-align: center;
   font-size: 20px;
@@ -148,7 +151,7 @@
   padding-right: 25px;
 }
 
-
+/* both pages */
 body{
   margin: 0px;
 }
